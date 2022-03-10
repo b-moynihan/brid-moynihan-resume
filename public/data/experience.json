@@ -1,0 +1,38 @@
+{
+    "resume": {
+        "education": [
+            {
+            "school": "University College Cork",
+            "degree": "Bsc Computer Science",
+            "graduated": "2015 - 2019",
+            "description": "2.1 achieved"
+            },
+            {
+            "school": "FCJ Bunclody",
+            "degree": "Leaving Certificate",
+            "graduated": "2008 - 2014",
+            "description": "515 points achieved"
+            }
+        ],
+        "work": [
+            {
+            "company": "Glofox",
+            "title": "Data Engineer",
+            "years": "June 2021 - Present",
+            "description": "Maintained and contributed to a growing data pipeline which ingested raw data from up to 30 different data sources internally and 3rd parties. Transforming and loading data using DBT and strong SQL skills into Redshift. Used DBT to model data fed into BI reports in Looker. Worked as team Technical Communicator which involved employing a sense of ownership and upholding standards for the team documentation, including interfacing and working alongside data producers, stakeholders and external departments as a whole. I worked with stakeholders and clients to understand business needs and translate those needs to actionable reports. Fostered data-driven decision making processes. I have also worked within the undercurrent role of DataOps supporting the data sourcing and utilisation cycle by giving support to the Analytics infrastructure and improving scalability, availability and performance. I oversaw the monitoring of data pipelines, infrastructure and data governance"
+            },
+            {
+            "company": "Poppulo",
+            "title": "Data Engineer",
+            "years": "June 2019 - July 2021",
+            "description": "Full-stack engineer in a team responsible for the development and maintenance of a Big Data Analytics platform. Designing and building frameworks for business intelligence reports for Poppulo's Internal Communications platform. These reports were then visualised using Looker. Enhancing and increasing overall end user experience, insight and employee engagement. Led the efforts to design and build the ETL pipelines in AWS Glue and Lake Formation. Contributed further to the benchmarking and continuous improvement of back-end services by leading investigations into the monitoring and alerting of crucial Kinesis and Firehose, Airflow, Glue pipelines and Redshift. Extensively worked on quality testing hot data in Redshift and cold data in S3 to detect any instances of data duplication, null values of primary keys, and ensuring data and schema accuracy."
+            },
+            {
+            "company": "Poppulo",
+            "title": "Software Engineer Intern",
+            "years": "March 2018 - August 2018",
+            "description": "Front-end developer working with Angular and Java APIs. Got extensive exposure to Git CI/CD, Kubernetes and Docker deployments, Kafka Publisher/Subscriber messaging systems and contributed to Unit Tests, Integration Tests of the UI with Protractor, and Automation Tests using Selenium to regression test UI's after any changes were deployed. Took part in the Diversity & Inclusion work group and Women in Tech initiatives. Contributed to and coached colleagues in drafting tech articles for the company blog and department book club. Worked with teaching Hour Of Code to children with the aims of demystifying computer science concepts"
+            }
+        ]
+    }
+}

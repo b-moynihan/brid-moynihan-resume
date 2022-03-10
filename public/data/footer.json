@@ -1,0 +1,45 @@
+{
+    "about": {
+      "name": "Brid Moynihan",
+      "occupation": "Data Engineer",
+      "description": "I'm Bríd, a Data Engineer based in Edinburgh. ",
+      "image": "profilepic.jpg",
+      "bio": "Data Engineer with 4 years experience designing, maintaining and executing analytical solutions for complex business problems. Experience migrating on-premise analytics infrastructure to AWS",
+      "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+      "email": "moynihanbrid@gmail.com",
+      "phone": "555-555-5555",
+      "address": {
+        "city": "(Your City)",
+        "country": "Scotland"
+      },
+      "website": "http://www.bridmoynihan.com",
+      "resumedownload": "http://bridmoynihan.com",
+      "social": [
+        {
+          "name": "facebook",
+          "url": "http://facebook.com/",
+          "className": "fa fa-facebook"
+        },
+        {
+          "name": "twitter",
+          "url": "https://twitter.com/brid_moynihan",
+          "className": "fa fa-twitter"
+        },
+        {
+          "name": "linkedin",
+          "url": "linkedin.com/in/bríd-m-0300b516b",
+          "className": "fa fa-linkedin"
+        },
+        {
+          "name": "instagram",
+          "url": "http://instagram.com/",
+          "className": "fa fa-instagram"
+        },
+        {
+          "name": "github",
+          "url": "http://github.com/b-moynihan",
+          "className": "fa fa-github"
+        }
+      ]
+    }
+}

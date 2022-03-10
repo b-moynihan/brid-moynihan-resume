@@ -1,0 +1,60 @@
+{   
+    "portfolio": {
+      "note": "this is a note",
+      "projects": [
+        {
+          "title": "Medium",
+          "category": "My Tech Blogs",
+          "image": "images/portfolio/medium_textile.jpg",
+          "image2x": "images/portfolio/medium_textile.jpg",
+          "url": "https://bridmoynihan.medium.com/",
+          "description": "My Tech Blogs",
+          "caption": "this is a caption"
+        },
+        {
+          "title": "Graduate",
+          "category": "",
+          "image": "images/portfolio/graduate.jpg",
+          "image2x": "images/portfolio/graduate.jpg",
+          "url": "https://drive.google.com/file/d/1htEPFM2-Qe-3uTyTSlTP7ZCa5nFN3fiM/view",
+          "description": "Graduate of UCC Bsc. Computer Science.",
+          "caption": "this is a caption"
+        },
+        {
+          "title": "Stockify: Inventory & Waste Management Tool",
+          "category": "",
+          "image": "images/portfolio/food.jpg",
+          "image2x": "images/portfolio/food.jpg",
+          "url": "https://drive.google.com/file/d/1htEPFM2-Qe-3uTyTSlTP7ZCa5nFN3fiM/view",
+          "description": "Aims to create a solution for food waste management and inventory tracking for restaurants and professional kitchens.",
+          "caption": "this is a caption"
+        },
+        {
+          "title": "Hour of Code 2018",
+          "category": "",
+          "image": "images/portfolio/hoc.jpg",
+          "image2x": "images/portfolio/hoc.jpg",
+          "url": "https://drive.google.com/file/d/1htEPFM2-Qe-3uTyTSlTP7ZCa5nFN3fiM/view",
+          "description": "Global movement to introduce people of all ages to computer programming in a fun way",
+          "caption": "this is a caption"
+        },
+        {
+          "title": "Sentimental Twit",
+          "category": "Sentiment Analysis project of Twitter hashtags",
+          "image": "images/portfolio/twitter.jpg",
+          "image2x": "images/portfolio/twitter.jpg",
+          "url": "https://github.com/b-moynihan/Sentimental-Twit",
+          "description": "Sentiment Analysis project of Twitter hashtags",
+          "caption": "this is a caption"
+        },
+        {
+          "title": "Fidelity Most Innovative Software Engineer Award",
+          "category": "",
+          "image": "images/portfolio/award.jpg",
+          "url": "https://drive.google.com/file/d/1htEPFM2-Qe-3uTyTSlTP7ZCa5nFN3fiM/view",
+          "description": "Fidelity Investments were impressed by Bríd Moynihan's Stock-ify: Waste Management Tool",
+          "caption": "this is a caption"
+        }
+      ]
+    }
+}

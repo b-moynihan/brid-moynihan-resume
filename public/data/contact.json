@@ -1,0 +1,13 @@
+{
+    "contact": {
+      "name": "Brid Moynihan",
+      "image": "profilepic.jpg",
+      "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+      "email": "moynihanbrid@gmail.com",
+      "phone": "555-555-5555",
+      "address": {
+        "city": "(Your City)",
+        "country": "Scotland"
+      }
+    }
+}

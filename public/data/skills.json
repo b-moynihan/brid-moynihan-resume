@@ -1,0 +1,90 @@
+{ 
+    "skills": {
+        "frameworks": [
+            {
+                "name": "DBT",
+                "level": "90"
+            },
+            {
+                "name": "Redshift",
+                "level": "90"
+            },
+            {
+                "name": "Looker",
+                "level": "80"
+            },
+            {
+                "name": "AWS Kinesis & Firehose",
+                "level": "90"
+            },
+            {
+                "name": "Spark",
+                "level": "75"
+            },
+            {
+                "name": "Apache Airflow",
+                "level": "85"
+            },
+            {
+                "name": "AWS LakeFormation & Glue",
+                "level": "80"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Python & Pyspark",
+                "level": "80"
+            },
+            {
+                "name": "SQL",
+                "level": "90"
+            },
+            {
+                "name": "Java",
+                "level": "60"
+            },
+            {
+                "name": "Golang",
+                "level": "75"
+            },
+            {
+                "name": "Typescript",
+                "level": "80"
+            },
+            {
+                "name": "Javascript",
+                "level": "70"
+            }
+            ],
+            "soft_skill": [
+            {
+                "name": "Leadership & Initiative",
+                "level": "95"
+            },
+            {
+                "name": "Communications",
+                "level": "85"
+            },
+            {
+                "name": "Industry & Product Knowledge",
+                "level": "90"
+            },
+            {
+                "name": "Continuous Growth",
+                "level": "90"
+            },
+            {
+                "name": "Interpersonal Skills",
+                "level": "85"
+            },
+            {
+                "name": "Problem-Solving",
+                "level": "75"
+            },
+            {
+                "name": "Attention To Detail",
+                "level": "70"
+            }
+        ]
+    }
+}
