@@ -125,7 +125,7 @@ class App extends Component {
         <Experience data={this.state.experienceProps.resume}/>
         <Portfoliio data={this.state.portfolioProps.portfolio}/>
         <Repertoire data={this.state.repertoireProps.repertoire}/>
-        <Contact data={this.state.contactProps.main}/>
+        <Contact data={this.state.contactProps.contact}/>
         <Footer data={this.state.footerProps.main}/>
       </div>
     );

@@ -4,12 +4,15 @@ class Contact extends Component {
   render() {
     // TODO Update to only pass Contact json  
     if(this.props.data){
-      var name = this.props.data.name;
-      var city = this.props.data.address.city;
-      var country = this.props.data.address.country;
-      var phone= this.props.data.phone;
-      var email = this.props.data.email;
-      var message = this.props.data.contactmessage;
+        console.log(this.props.data)
+        var name = this.props.data.name;
+        var city = this.props.data.address.city;
+        var country = this.props.data.address.country;
+        var phone= this.props.data.phone;
+        var email = this.props.data.email;
+        var image = this.props.data.image;
+        console.log(image)
+        var message = this.props.data.contactmessage;
     }
 
     return (
@@ -21,7 +24,6 @@ class Contact extends Component {
             <div class="col-full">
                 <h3>Contact</h3>
                 <h1>Drop Me A Line.</h1>
-                
                 <p class="lead">{message}</p>
             </div>
         </div>
@@ -30,15 +32,14 @@ class Contact extends Component {
             <div class="col-eight tab-full contact__form">
                 <form name="contactForm" id="contactForm" method="post" action="">
                     <fieldset>
-    
                     <div class="form-field">
-                        <input name="contactName" type="text" id="contactName" placeholder="Name" value="" minLength="2" required="" aria-required="true" class="full-width"/>
+                        <input name="contactName" type="text" id="contactName" placeholder="Name" minLength="2" required="" aria-required="true" class="full-width"/>
                     </div>
                     <div class="form-field">
-                        <input name="contactEmail" type="email" id="contactEmail" placeholder="Email" value="" required="" aria-required="true" class="full-width"/>
+                        <input name="contactEmail" type="email" id="contactEmail" placeholder="Email" required="" aria-required="true" class="full-width"/>
                     </div>
                     <div class="form-field">
-                        <input name="contactSubject" type="text" id="contactSubject" placeholder="Subject" value="" class="full-width"/>
+                        <input name="contactSubject" type="text" id="contactSubject" placeholder="Subject" class="full-width"/>
                     </div>
                     <div class="form-field">
                         <textarea name="contactMessage" id="contactMessage" placeholder="Message" rows="10" cols="50" required="" aria-required="true" class="full-width"></textarea>
@@ -70,16 +71,15 @@ class Contact extends Component {
                         
             </div>
             <div class="col-four tab-full contact__infos">
-                <h4 class="h06">Phone</h4>
-                <p>Mobile: {phone}<br/>
+                <h4 class="h06">Phone:</h4>
+                <p>{phone}<br/>
                 </p>
 
-                <h4 class="h06">Email</h4>
+                <h4 class="h06">Email:</h4>
                 <p>{email}<br/>
-                {email}
                 </p>
 
-                <h4 class="h06">Address</h4>
+                <h4 class="h06">Address:</h4>
                 <p>
                 {city}<br/>
                 {country}<br/>

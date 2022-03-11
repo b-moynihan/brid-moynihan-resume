@@ -1,5 +1,6 @@
 { 
     "skills": {
+        "bio": "Hey there, I'm Brid! Remote Data Engineer currently working at Glofox 🦊- Giving customers insights into their Gyms and Businesses with Analytics and Big Data solutions",
         "frameworks": [
             {
                 "name": "DBT",

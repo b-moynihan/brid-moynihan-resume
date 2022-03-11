@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Image } from 'react-native';
 
 class Skills extends Component{
   render() {
@@ -28,6 +29,10 @@ class Skills extends Component{
           <div class="col-full text-center">
               <h3>About</h3>
               <h1>More About Me</h1>
+              <Image 
+                source={require('./images/profile.jpg')}  
+                style={{width: 100, height: 100, borderRadius: 400/ 2}} 
+                />
               <p class="lead">{bio}</p>
           </div>
       </div>
